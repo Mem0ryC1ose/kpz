@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hnativ.Ostap.RobotChallange", "Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange.csproj", "{267F45D8-B336-4CF1-BE6D-1C8AED20F99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hnativ.Ostap.RobotChallange.Test", "Hnativ.Ostap.RobotChallange.Test\Hnativ.Ostap.RobotChallange.Test.csproj", "{B6FF46CD-725B-4770-BCA9-61FE389E7457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267F45D8-B336-4CF1-BE6D-1C8AED20F99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267F45D8-B336-4CF1-BE6D-1C8AED20F99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267F45D8-B336-4CF1-BE6D-1C8AED20F99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267F45D8-B336-4CF1-BE6D-1C8AED20F99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FF46CD-725B-4770-BCA9-61FE389E7457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FF46CD-725B-4770-BCA9-61FE389E7457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FF46CD-725B-4770-BCA9-61FE389E7457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FF46CD-725B-4770-BCA9-61FE389E7457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

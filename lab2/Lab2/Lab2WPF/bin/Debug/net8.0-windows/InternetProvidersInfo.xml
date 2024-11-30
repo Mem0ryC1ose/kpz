@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Clients>
+    <Client>
+      <Id>1</Id>
+      <Name>Krutets Igor</Name>
+      <Address>Adress1</Address>
+      <PhoneNumber>0116752389</PhoneNumber>
+      <Email>Igorrrrr@gmail.com</Email>
+      <RegistrationDate>2020-04-23T00:00:00</RegistrationDate>
+      <RegistrationDateString>2020-04-23</RegistrationDateString>
+    </Client>
+    <Client>
+      <Id>2</Id>
+      <Name>Trohumchuk Illya</Name>
+      <Address>Adress2</Address>
+      <PhoneNumber>0671530900</PhoneNumber>
+      <Email>IllyaTr@gmail.com</Email>
+      <RegistrationDate>2010-03-18T00:00:00</RegistrationDate>
+      <RegistrationDateString>2010-03-18</RegistrationDateString>
+    </Client>
+    <Client>
+      <Id>3</Id>
+      <Name>Hto sho</Name>
+      <Address>Adress3</Address>
+      <PhoneNumber>0503223414</PhoneNumber>
+      <Email>t5432@gmail.com</Email>
+      <RegistrationDate>2012-12-22T00:00:00</RegistrationDate>
+      <RegistrationDateString>2012-12-22</RegistrationDateString>
+    </Client>
+    <Client>
+      <Id>5</Id>
+      <Name>gfdsgds</Name>
+      <Address>ADdresd</Address>
+      <PhoneNumber>8584392231</PhoneNumber>
+      <Email>fgdsa@gmail.com</Email>
+      <RegistrationDate>2023-08-22T00:00:00</RegistrationDate>
+      <RegistrationDateString>2023-08-22</RegistrationDateString>
+    </Client>
+    <Client>
+      <Id>0</Id>
+      <RegistrationDate>0001-01-01T00:00:00</RegistrationDate>
+      <RegistrationDateString>0001-01-01</RegistrationDateString>
+    </Client>
+  </Clients>
+  <Services>
+    <Service>
+      <Id>1</Id>
+      <Name>GIG</Name>
+      <Description>Fast and secure home internet</Description>
+      <Type>Internet</Type>
+    </Service>
+    <Service>
+      <Id>2</Id>
+      <Name>GIG+</Name>
+      <Description>Faster and more secure home internet</Description>
+      <Type>Internet</Type>
+    </Service>
+  </Services>
+  <Tariffs>
+    <Tariff>
+      <Id>1</Id>
+      <ServiceId>1</ServiceId>
+      <Name>100 Мб/с</Name>
+      <Price>100</Price>
+    </Tariff>
+    <Tariff>
+      <Id>2</Id>
+      <ServiceId>2</ServiceId>
+      <Name>300 Мб/с</Name>
+      <Price>300</Price>
+    </Tariff>
+  </Tariffs>
+  <Employees>
+    <Employee>
+      <Id>1</Id>
+      <Name>Truha Oleksander</Name>
+      <Position>Installer of Internet networks</Position>
+      <Email>0657832716</Email>
+      <PhoneNumber>OleksanderTruha@gmail.com</PhoneNumber>
+    </Employee>
+    <Employee>
+      <Id>2</Id>
+      <Name>Lamayko Andriy</Name>
+      <Position>Installer of Internet networks</Position>
+      <Email>0682461187</Email>
+      <PhoneNumber>Andryuha@gmail.com</PhoneNumber>
+    </Employee>
+  </Employees>
+</DataModel>

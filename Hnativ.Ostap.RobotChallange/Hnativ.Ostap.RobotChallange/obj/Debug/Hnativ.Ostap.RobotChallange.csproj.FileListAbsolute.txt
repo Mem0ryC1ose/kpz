@@ -1,0 +1,15 @@
+C:\robots3\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\bin\Debug\Hnativ.Ostap.RobotChallange.dll
+C:\robots3\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\bin\Debug\Hnativ.Ostap.RobotChallange.pdb
+C:\robots3\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\bin\Debug\Robot.Common.dll
+C:\robots3\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\obj\Debug\Hnativ.Ostap.RobotChallange.csproj.AssemblyReference.cache
+C:\robots3\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\obj\Debug\Hnativ.Ostap.RobotChallange.csproj.CoreCompileInputs.cache
+C:\robots3\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\obj\Debug\Hnativ.O.288BC16D.Up2Date
+C:\robots3\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\obj\Debug\Hnativ.Ostap.RobotChallange.dll
+C:\robots3\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\obj\Debug\Hnativ.Ostap.RobotChallange.pdb
+C:\c\KPZ\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\bin\Debug\Hnativ.Ostap.RobotChallange.dll
+C:\c\KPZ\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\bin\Debug\Hnativ.Ostap.RobotChallange.pdb
+C:\c\KPZ\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\obj\Debug\Hnativ.Ostap.RobotChallange.csproj.AssemblyReference.cache
+C:\c\KPZ\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\obj\Debug\Hnativ.Ostap.RobotChallange.csproj.CoreCompileInputs.cache
+C:\c\KPZ\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\obj\Debug\Hnativ.O.288BC16D.Up2Date
+C:\c\KPZ\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\obj\Debug\Hnativ.Ostap.RobotChallange.dll
+C:\c\KPZ\Hnativ.Ostap.RobotChallange\Hnativ.Ostap.RobotChallange\obj\Debug\Hnativ.Ostap.RobotChallange.pdb

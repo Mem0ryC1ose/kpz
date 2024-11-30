@@ -1,0 +1,69 @@
+﻿<Window x:Class="Lab2WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab2WPF.Converters"
+        mc:Ignorable="d"
+        Title="Manage Clients" Height="400" Width="600">
+
+    <Window.Resources>
+        <local:EqualityConverter x:Key="EqualityConverter" />
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="LightGray" Margin="10" HorizontalAlignment="Center">
+
+            <Button Content="Clients" 
+        Command="{Binding ShowClientCommand}"
+        Background="{Binding SelectedView, Converter={StaticResource EqualityConverter}, ConverterParameter=Client}" 
+        Width="100"
+        Height="30"
+        Margin="5"
+        Foreground="Black"
+        BorderBrush="#909090"
+        BorderThickness="1" />
+
+            <Button Content="Services" 
+        Command="{Binding ShowServiceCommand}"
+        Background="{Binding SelectedView, Converter={StaticResource EqualityConverter}, ConverterParameter=Service}"
+        Width="100"
+        Height="30"
+        Margin="5"
+        Foreground="Black"
+        BorderBrush="#909090"
+        BorderThickness="1" />
+
+            <Button Content="Tariffs" 
+        Command="{Binding ShowTariffCommmand}"
+        Background="{Binding SelectedView, Converter={StaticResource EqualityConverter}, ConverterParameter=Tariff}"
+        Width="100"
+        Height="30"
+        Margin="5"
+        Foreground="Black"
+        BorderBrush="#909090"
+        BorderThickness="1" />
+
+            <Button Content="Employees" 
+        Command="{Binding ShowEmployeeCommand}"
+        Background="{Binding SelectedView, Converter={StaticResource EqualityConverter}, ConverterParameter=Employee}"
+        Width="100"
+        Height="30"
+        Margin="5"
+        Foreground="Black"
+        BorderBrush="#909090"
+        BorderThickness="1" />
+
+        </StackPanel>
+
+        <ContentControl Grid.Row="1" Content="{Binding CurrentView}">
+
+        </ContentControl>
+
+    </Grid>
+</Window>
